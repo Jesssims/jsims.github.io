@@ -13,37 +13,42 @@ section:
 skills:
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "Capable of deploying and managing applications on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
   url: "https://kubernetes.io/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+# - name: Go Development
+#  logo: /images/sections/skills/go.png
+#  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+#  url: "https://golang.org/"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+#- name: Cloud Computing
+#  logo: /images/sections/skills/cloud.png
+#  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "Experienced with multi-stage, multi-arch build process."
   url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+#- name: Prometheus
+#  logo: /images/sections/skills/prometheus.png
+#  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+#  url: "https://prometheus.io/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Certified Linux Administrator. Confident configuring, maintaining and troubleshooting hardware and software via command line and writing simple bash/shell scripts."
+  url: https://www.linux.org/
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Experience with git-based development and CI/CD pipelines."
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: vSAN
+  logo: /images/sections/skills/vmware3.png
+  summary: "VMware vSAN specialist capable of deploying and troubleshooting VMware vSAN storage solutions."
+
+- name: vSphere
+  logo: /images/sections/skills/vmware3.png
+  summary: "VMware vSphere and vCenter experience in deploying and troubleshooting"

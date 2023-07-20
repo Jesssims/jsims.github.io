@@ -11,54 +11,64 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: VMware
+    url: "https://www.vmware.com/"
+    location: Cork, Ireland
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    # overview: VMware is an American cloud computing and virtualization technology company. 
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Technical Support Engineer II
+    start: Sept 2018
+    end: Aug 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+      - Responsible for scoping, diagnosing, reproducing and resolving technical queries in a timely manner
+      - Worked collaboratively with escalation engineers and colleagues across various teams such as Escalation Management, Field Sales and Support to ensure the optimum technical solution 
+      - Troubleshot and engaged with the dedicated vSAN product engineering on customer issues including identifying viable workarounds 
+      - Ensured appropriate prioritization and escalation for impactful customer issues to determine the best outcome for the customer
+      - Mentored and provided training to other team members on enterprise storage topics
+      - Wrote technical solutions and documents for reuse throughout the organization and customer base
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: J Sims Media
+  #  url: "https://www.example.com"
+    location: Manitoba, Canada
+  #  overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Owner
+    start: Jan 2018
+    end: Aug 2018
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Assisted small business owners to increase revenue by designing and developing mobile responsive websites using WordPress and other CMS platforms to implement countless applications at affordable rates
+    - Advised clients on hosting, SEO, design, development, branding, maintenance, marketing and more
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: International Service Roles 
+  #  url: "https://www.example.com"
+    location: Canada, Scotland and Ireland
+  #  overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Server
+    start: May 2010
+    end: Aug 2018
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Funded studies 
+    - Trained numberous new staff members 
+    - Keyholder, including counting and lodging of cash 
+    - Increased profits by managing accounts between film producers 
+
+- company:
+    name: White & Associates 
+  #  url: "https://www.example.com"
+    location: Leitrim, Ireland
+  #  overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Administrative Assistant 
+    start: Apr 2014
+    end: Sep 2015
+    responsibilities:
+    - Produced and amended correspondence to clients via dictation
+    - Developed a more proficient way of file management
+
